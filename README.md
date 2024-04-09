@@ -1,10 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
     <!-- Add any necessary stylesheets or scripts here -->
+    <style>
+        /* Add your custom styles here */
+    </style>
 </head>
 <body>
     <div>
@@ -12,6 +15,7 @@
             <div class="Box-body p-4">
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3">
+                        <!-- Add any necessary content here -->
                     </div>
                 </div>
                 <article class="markdown-body entry-content container-lg f5" itemprop="text">
@@ -36,6 +40,8 @@
         </div>
     </div>
     <!-- Add any necessary scripts here -->
+    <script>
+        // Add your scripts here
+    </script>
 </body>
 </html>
-
