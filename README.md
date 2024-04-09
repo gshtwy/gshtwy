@@ -27,8 +27,7 @@
                         <summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
                         <p dir="auto"><em>我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。</em></p>
                         <ul dir="auto">
-                            <li><strong>ERC20/BEP20:</strong> <code>0x60ffd0df36fb35550e7fe52ad2faae88a4a91b22</code></li>
-                            <li><strong>TRC20:</strong> <code>TDizmMPgy7cVUr5GsagkNGxyg2rJgf4FNf</code></li>
+                            <li><strong>TRC20:</strong> <code>TPGfbZqd4jua6oH1KCDqAZeHXKewBn3C6x</code></li>
                         </ul>
                         <p dir="auto">🎁 <strong>你的支持是我不断前进的动力！</strong> 💖</p>
                     </details>
