@@ -31,4 +31,4 @@
     </div>
 </body>
 </html>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gshtwy&show_icons=true&theme=radical)
