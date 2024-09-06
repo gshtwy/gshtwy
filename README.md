@@ -23,12 +23,12 @@
                         </ul>
                         <p dir="auto">🎁 <strong>你的支持是我不断前进的动力！</strong> 💖</p>
                     </details>
-                    <p dir="auto">⚠️ <strong>问题反馈：天诚技术交流群！</strong> ⚠️</p>
+                   <p dir="auto">⚠️ <strong>问题反馈：天诚技术交流群！</strong> </p>
+                   <p dir="auto">👥 <strong>群组链接：https://t.me/cncomorg </strong> </p>
                 </article>
             </div>
         </div>
     </div>
 </body>
 </html>
-## ⚠️ 问题反馈：天诚技术交流群
-## 👥 群组链接：https://t.me/cncomorg
+
