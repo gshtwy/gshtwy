@@ -24,7 +24,7 @@
                         <p dir="auto">🎁 <strong>你的支持是我不断前进的动力！</strong> 💖</p>
                     </details>
                    <p dir="auto">⚠️ <strong>问题反馈：天诚技术交流群 </strong> </p>
-                   <p dir="auto">👥 <strong> 群组链接：https://t.me/cncomorg </strong> </p>
+                   <p dir="auto">👥 <strong> 群组链接：https://t.me/@zyssadmin </strong> </p>
                    <p dir="auto">✨ <strong> 群组简介 </strong>✨</p>
                    <p dir="auto">📢 Cloudflare优选IP 订阅器 每天定时发布更新。</p>
                    <p dir="auto">📢 科学上网 openwrt系统 iStore系统 Ros系统 影视 音乐 等技术交流。 </p>
